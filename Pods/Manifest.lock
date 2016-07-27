@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.4.0)
+  - GoogleMaps (1.12.3)
+  - JT3DScrollView (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - JT3DScrollView (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  GoogleMaps: a4ac67918d0b5ba5f6b9893ac80487e357779e6c
+  JT3DScrollView: 863773b53a2fd9b6599835ea4202843ad60535fd
+
+COCOAPODS: 0.38.2
